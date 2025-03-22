@@ -30,9 +30,9 @@ Check out the live version of the application deployed on Vercel:
 
 This project was originally inspired by a YouTube tutorial, which I then recreated from scratch and customized to further enhance my learning experience.
 
-- Original YouTube Tutorial: [React Ecommerce Tutorial by Lama Dev](https://www.youtube.com/watch?v=JkOaWPFihwo)
+- Original YouTube Tutorial: [React Ecommerce Tutorial by Mr.Noor Mohammad](https://www.youtube.com/watch?v=JkOaWPFihwo)
 
-Special thanks to Lama Dev for the insightful tutorial.
+Special thanks to Mr.Noor Mohammad for the insightful tutorial.
 
 ## Installation and Setup
 
